@@ -1,0 +1,2 @@
+# TASK_ANGULAR_AND_HTML
+Create an angular5 app with a login page (dummy login) and the home page (use custom css).  The login page should contain email, password fields, and the login button, load each of them as separate child components. Function for login should be written inside the parent component.  Design for the home page is provided, complete the first 2 sections (top section and key feature section) and divide each section to different components and load it as a single page.  
